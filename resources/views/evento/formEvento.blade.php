@@ -9,7 +9,7 @@
     <title>BlackMoon Form Event</title>
 </head>
 
-<body> 
+<body class="fondo"> 
     <div class = "titulo">
     <h1>
     <img src="https://i.pinimg.com/originals/f9/e4/aa/f9e4aabe769a9d5b635408a9a5b1fb1b.jpg" class="a">    

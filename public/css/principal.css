@@ -43,7 +43,7 @@ h1{
 
     background-color: #D8D8D8;
     border-left: 5px solid transparent;
-    border-image: -webkit-linear-gradient(#ffff77 0, #fcb258 12.5%, #fff163 25%, #f8ce87 37.5%, #aa7e53 50%, #dfa44c 62.5%, #d49d60 75%, #bc7b43 87.5%, #ffffc3 100%,transparent) 1 80;
+    border-image: -webkit-linear-gradient(#ffff77 0, #fcb258 12.5%, #fff163 25%, #f8ce87 37.5%, #aa7e53 50%, #dfa44c 62.5%, #d49d60 75%, #bc7b43 87.5%, #ffffc3 100%,transparent) 50 80;
     position: fixed;
     bottom: 0%;
     right: 0%;
@@ -181,4 +181,9 @@ a:focus {
     bottom: 0%;
     right: 0%;
     background-color: #4B0642;
+}
+
+.fondo{
+    opacity: 2;
+    background-image:url(https://4.bp.blogspot.com/-QmRLItYqoEk/Wcquhc5h_AI/AAAAAAAA-qE/WzuXaE3Uuao-Q6AKaWghRBdD1CRYAD7qgCKgBGAs/s400/tumblr_static_tumblr_static__640.gif);
 }

@@ -384,8 +384,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
-  background-color: #fff;
-  border-color: #6b7280;
+  background-color: #5A606E;
+  border-color: #000000;
   border-width: 1px;
   border-radius: 0px;
   padding-top: 0.5rem;
@@ -477,7 +477,7 @@ select {
   width: 1rem;
   color: #2563eb;
   background-color: #fff;
-  border-color: #6b7280;
+  border-color: #6875F5;
   border-width: 1px;
   --tw-shadow: 0 0 #0000;
 }
